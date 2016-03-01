@@ -90,6 +90,10 @@ of those sections to manage the look and feel of the site. */
     color: #D90000;
 }
 
+#idkman:hover {
+    background-color: #D90000;
+}
+
 @font-face {
     font-family: Arkhip;
     src: url("../fonts/Arkhip_font.ttf");
