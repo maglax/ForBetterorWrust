@@ -38,7 +38,7 @@ of those sections to manage the look and feel of the site. */
     background-image: url("../images/vannologosmaller.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: auto;
+    background-size: 100%;
     background-color: #cccccc;
 }
 
