@@ -46,28 +46,40 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background: #A70000;
 }
 
 .services-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: #D90000;
 }
 
 .location-section {
   height: 100%;
   padding-top: 150px;
   text-align: center;
-  background: #eee;
+  background: #A70000;
 }
 
 .contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: #D90000;
+}
+
+.redcolor {
+    color: #FF0000;
+}
+
+.moreredcolor {
+    color: #A70000;
+}
+
+.lessredcolor {
+    color: #D90000;
 }
 
 @font-face {
