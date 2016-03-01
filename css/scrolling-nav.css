@@ -18,6 +18,10 @@ h1 {
     color: #FFA4A4;
 }
 
+p {
+    color: #FFA4A4;
+}
+
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
