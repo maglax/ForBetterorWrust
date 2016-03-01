@@ -69,6 +69,11 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
 }
 
+#gaveup {
+    font-family: Arkhip;
+
+}
+
 @font-face {
     font-family: Arkhip;
     src: url("/fonts/Arkhip_font.ttf");
