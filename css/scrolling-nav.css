@@ -14,10 +14,6 @@ html {
     height: 100%;
 }
 
-a {
-    color: #FFA4A4;
-}
-
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
