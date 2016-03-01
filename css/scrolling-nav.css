@@ -76,10 +76,10 @@ of those sections to manage the look and feel of the site. */
 
 @font-face {
     font-family: Arkhip;
-    src: url("/fonts/Arkhip_font.ttf");
+    src: url("../fonts/Arkhip_font.ttf");
 }
 
-@@font-face {
+@font-face {
     font-family: GermanFont;
-    src: url("/fonts/DeutscheUncialis.ttf");
+    src: url("../fonts/DeutscheUncialis.ttf");
 }
