@@ -15,11 +15,11 @@ html {
 }
 
 h1 {
-    color: #FFA4A4;
+    color: #B69C01;
 }
 
 p {
-    color: #FFA4A4;
+    color: #B69C01;
 }
 
 @media(min-width:767px) {
@@ -54,28 +54,28 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #A70000;
+    background: #750F00;
 }
 
 .services-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #D90000;
+    background: #410000;
 }
 
 .location-section {
   height: 100%;
   padding-top: 150px;
   text-align: center;
-  background: #A70000;
+  background: #750F00;
 }
 
 .contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #D90000;
+    background: #410000;
 }
 
 .redcolor {
