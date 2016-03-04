@@ -1,0 +1,26 @@
+providers: [
+  {
+    key: "bt"
+    config:
+      commands: [
+        {
+          project: "/Users/s747447/ForBetterorWrust"
+          source: "/Users/s747447/ForBetterorWrust/.build-tools.cson"
+          name: "Compile"
+          command: "gcc CreatePT.c -o test"
+          wd: "."
+          env: {}
+          modifier: {}
+          stdout:
+            pty: false
+            highlighting: "nh"
+            ansi_option: "ignore"
+          stderr:
+            highlighting: "nh"
+            ansi_option: "ignore"
+          output: {}
+          version: 1
+        }
+      ]
+  }
+]
