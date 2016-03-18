@@ -89,10 +89,10 @@ of those sections to manage the look and feel of the site. */
 .lessredcolor {
     color: #D90000;
 }
-#idkman {
+.idkman {
         color :#FFA4A4;
 }
-#idkman:hover {
+.idkman:hover {
     background-color: #D90000;
 }
 
