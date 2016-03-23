@@ -5,7 +5,7 @@
  */
 
 body {
-    width: 100%;
+    width: 98%;
     height: 100%;
 }
 
@@ -19,7 +19,13 @@ h1 {
 }
 
 p {
-    color: #B69C01;
+    color: #000C01;
+    border-radius: 98px;
+}
+
+div {
+  color: red;
+  border-radius: 98px;
 }
 
 @media(min-width:767px) {
